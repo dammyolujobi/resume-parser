@@ -1,0 +1,11 @@
+fastapi
+pydantic
+pymongo
+motor
+spacy
+pyjwt
+bcrypt
+pymupdf
+sentence-transformers
+numpy
+scikit-learn
